@@ -1,6 +1,6 @@
 ---
 title: Hello World
-date: '2019-01-30 21:10:18'
+date: '2019-01-30T21:18:40Z'
 ---
 
 Just putting something here so it won't be blank.
