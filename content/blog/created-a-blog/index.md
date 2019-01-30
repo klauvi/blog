@@ -1,6 +1,6 @@
 ---
 title: How I created this blog
-date: ''
+date: '2019-01-30T21:53:50Z'
 ---
 
 Inspired by this tweet from [Elijah Manor](https://twitter.com/elijahmanor)
