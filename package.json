@@ -52,6 +52,7 @@
   },
   "scripts": {
     "dev": "gatsby develop",
+    "newPost": "node ./scripts/newPost.js",
     "lint": "eslint --ext .js,.jsx --ignore-pattern public .",
     "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\"",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.js' 'src/**/*.md'",
